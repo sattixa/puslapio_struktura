@@ -1,0 +1,80 @@
+
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 0px 0px 40px 0px;
+  border: 6px double green;
+  display:inline-block;
+  width: 600px;
+  position: relative;
+
+}
+.nav{
+  background-color: #F1F1F1;
+  text-align: center;
+  border: 6px double pink;
+  display:block;
+  width: 600px;
+   position: relative;
+}
+
+.article{
+  background-color: #F1F1F1;
+  text-align: center;
+  border: 6px double blue;
+  float: left;
+  width:350px;
+  display: grid;
+  }
+
+.divv {
+  background-color: #F1F1F1;
+  text-align: center;
+  border: 6px double plum;
+  float: left;
+  /* margin-left: 10px; */
+  width:240px;
+}
+/* 1 stulpelis */
+.c1,.c2,.c3,.c4 {  background-color: #F1F1F1;
+  text-align: center;
+  width:340px;
+  display: block;
+}
+
+.c1{border: 4px double aqua;
+}
+.c2{border: 4px double maroon;
+}
+.c3{border: 4px double maroon;
+}
+.c4{border: 4px double olive;
+}
+
+/* 2stulpelis */
+.a1,.a2,{  background-color: #F1F1F1;
+  text-align: center;
+  width:30px;
+}
+
+.a1,.a2 {border: 4px double red;
+  padding: 0px 0px 140px 0px;
+}
+.tarpas{
+padding-bottom: 150px;
+}
+
+.clear {
+    clear: both;
+  }
+
+  footer{
+    background-color: #F1F1F1;
+    text-align: center;
+    /* padding: 10px; */
+    border: 6px double yellow;
+    display: grid;
+    width: 600px;
+  }
+
+}
